@@ -5,6 +5,12 @@ The Car Detection Model Project is a sophisticated machine learning initiative a
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+## Key Insights
+Chevrolet is the most common car brand in the dataset, while luxury brands like Maybach and McLaren are less represented.
+The dataset encompasses cars manufactured between 1991 and 2012, providing a range of technologies and designs for model training.
+
+## Model Performance
+The initial models achieve around 23% training accuracy and 6% validation accuracy, with subsequent improvements through fine-tuning.
 
 ### Prerequisites
 
@@ -29,10 +35,5 @@ cd car-detection-model
 
 # Install dependencies
 pip install -r requirements.txt
-
-
-
-
-
 
 
