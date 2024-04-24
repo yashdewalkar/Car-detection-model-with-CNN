@@ -22,8 +22,6 @@ pip install keras
 pip install matplotlib
 pip install numpy
 pip install pandas
-Installing
-A step by step series of examples that tell you how to get a development env running:
 
 bash
 Copy code
